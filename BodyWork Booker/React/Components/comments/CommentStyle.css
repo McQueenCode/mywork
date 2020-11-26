@@ -1,0 +1,16 @@
+.noPadding {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.icon-buttons {
+  margin-left: -10px !important;
+}
+
+.full-name-shift {
+  margin-left: -15px !important;
+}
+
+.mediaH6 {
+  margin-bottom: 20px !important;
+}
